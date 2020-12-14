@@ -1,0 +1,11 @@
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.cache
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.CoreCompileInputs.cache
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Settings.resources
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.commands.resources
+A:\proje\c#\Voice Recognition\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Jarvis.resources
